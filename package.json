@@ -1,0 +1,14 @@
+{
+  "name": "n2uitive_chess",
+  "version": "0.1.0",
+  "description": "n2uitive chess game exercise",
+  "main": "chess.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "n2uitive",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
